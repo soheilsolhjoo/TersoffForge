@@ -2,8 +2,9 @@
 TersoffForge: A LAMMPS Potential Builder
 ----------------------------------------
 Author: Soheil Solhjoo - s.solhjoo@rug.nl
+Email: soheil@solhjoo.com
 Date: 1-March-2026
-Affilliation: ESD-ENTEG-FSE-University of Groningen
+
 
 Description:
 This script (TersoffForge) generates a LAMMPS-compatible .tersoff potential file
