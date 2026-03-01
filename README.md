@@ -24,7 +24,7 @@
 1. **Prepare your `params.json`**: Define your elements, their base parameters, and the mixing coefficients ($\chi$).
 2. **Run the script**:
    ```bash
-   python tersoff_builder.py params.json Si3N4.tersoff
+   python TersoffForge.py params.json potential.tersoff
    ```
 
 ## How It Works: Key Concepts
