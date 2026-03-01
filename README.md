@@ -4,9 +4,8 @@
 
 ## Author Information
 
-- **Author**: Soheil Solhjoo - s.solhjoo@rug.nl
-- **Date**: March 1, 2026
-- **Affiliation**: ESD-ENTEG-FSE-University of Groningen
+- **Author**: Soheil Solhjoo - soheil@solhjoo.com
+- **Date**: 1, March, 2026
 
 ## Features
 
